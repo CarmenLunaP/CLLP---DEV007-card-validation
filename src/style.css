@@ -1,0 +1,56 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0;
+    /* <--Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+    /* Firefox */
+}
+
+
+body {
+    background-color: #3DC4E1;
+}
+
+
+.header {
+    background-color: white;
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: white;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h3 {
+    color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#mm {
+    color: white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#carrito {
+    float: right;
+}
+#cardValidation :hover{
+    background-color: #F69442;
+}
