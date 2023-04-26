@@ -1,4 +1,4 @@
-  //const validator1 = document.getElementById("cardNumber")
+//const validator1 = document.getElementById("cardNumber")
 //console.log("validation in progress...");
 
 //Validador de numero de TDC
