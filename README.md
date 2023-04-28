@@ -2,7 +2,6 @@
 
 ## Índice
 
-<<<<<<< HEAD
 * [1. Resumen general](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Recursos utilizados](#3-consideraciones-generales)
@@ -16,7 +15,7 @@
 * [4. Descripción del Proyecto]
 * [5. Check list a considerar Project Feedback]
 * [6. El equipo de trabajo]
->>>>>>> 398772cd5bf681d7f7068dc7559ea60e6c15e75e
+
 
 ***
 
@@ -83,13 +82,6 @@ Estas preguntas sirven como guía:
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
 
-<<<<<<< HEAD
-**5. Hito Opcional: Mostrar la franquicia de tarjeta**
-Las partes opcionales tienen como intención permitirte profundizar un poco más
-sobre los objetivos de aprendizaje del proyecto. Todo en la vida tiene pros y
-contras, decide sabiamente si quieres invertir el tiempo en profundizar/
-perfeccionar o aprender cosas nuevas en el siguiente proyecto.
-=======
 
 **Planificación del desarrollo del proyecto**
 
@@ -106,7 +98,7 @@ El proyecto se desarolla en 2 spring, divididos de la siguente forma:
 * Desarrollo JS, isvalid.....Completar
 * Inicio del readme
 
-<<<<<<< HEAD
+
 **Planificación del desarrollo del proyecto**
 
 El proyecto se desarolla en 2 spring, divididos de la siguente forma:
@@ -196,9 +188,5 @@ el apoyo entre las compañeras de squad y el apoyo espacial de la compañera de 
 
 Desarollado y presentado por: Carmen Luna, mamá e Ingeniero Mecánico y estudiante del DEV007 de Laboratoría.
 
-<<<<<<< HEAD
-   ## “El único lugar donde el éxito viene antes del trabajo es en el diccionario”. *Donald Kendall*
-=======
    ## “El único lugar donde el éxito viene antes del trabajo es en el diccionario”. *Donald Kendall*
 
->>>>>>> 398772cd5bf681d7f7068dc7559ea60e6c15e75e
