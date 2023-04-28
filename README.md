@@ -8,20 +8,13 @@
 * [4. Descripción del Proyecto](#4-hito-criterios-de-aceptación-mínimos-del-proyecto)
 * [5. Check list a considerar Project Feedback](#5-hito-opcional-mostrar-la-franquicia-de-tarjeta)
 * [6. El equipo de trabajo](#6-consideraciones-técnicas)
-=======
-* [1. Resumen general]
-* [2. Resumen del proyecto]
-* [3. Recursos utilizados]
-* [4. Descripción del Proyecto]
-* [5. Check list a considerar Project Feedback]
-* [6. El equipo de trabajo]
 
 
 ***
 
 ## 1. Resumen general
 
-El El proyectdo Card Validatión es el entregable correspondiente spring numero 1 del grupo DEV007 del BootCamp de Laboratoria. Se desarrolló individualmente, en lineas generales, el objetivo prncipal fué crear una aplicación web para un proceso de validación de tarjetas de credito utilizando el  [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn) y adicionalmente ocultar los digitos de la tarjeta de cédito acepto los ultimos cuatro.
+El El proyectdo Card Validatión es el entregable correspondiente sprint numero 1 del grupo DEV007 del BootCamp de Laboratoria. Se desarrolló individualmente, en lineas generales, el objetivo prncipal fué crear una aplicación web para un proceso de validación de tarjetas de credito utilizando el  [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn) y adicionalmente ocultar los digitos de la tarjeta de cédito acepto los ultimos cuatro.
 
 ## 2. Resumen del proyecto
 
@@ -86,7 +79,6 @@ Estas preguntas sirven como guía:
 **Planificación del desarrollo del proyecto**
 
 El proyecto se desarolla en 2 spring, divididos de la siguente forma:
->>>>>>> 398772cd5bf681d7f7068dc7559ea60e6c15e75e
 
 **Spring 1:**
 * Planificacion del Spring 1, actividades generales y tareas. 
@@ -110,7 +102,7 @@ El proyecto se desarolla en 2 spring, divididos de la siguente forma:
 **Spring 2:**
 * Planificacion del Spring 2, actividades generales y tareas. 
 * Diseño CCS
-* Desarrollo JS, isvalid.....Completar
+* Desarrollo JS, isvalid
 * Inicio del readme
 
 **Spring 3:**
@@ -132,7 +124,6 @@ Imagen del Prototipo:
 
 **El proyecto**
 
-=======
 **Spring 3:**
 * Planificacion del Spring 2, actividades generales y tareas. 
 * Diseño CCS.
@@ -148,7 +139,6 @@ como la vista del producto final a diseñar y programar.
 
 **El proyecto**
 
->>>>>>> 398772cd5bf681d7f7068dc7559ea60e6c15e75e
 * Imagen de la web
 * Demostración
 * Descrioción de los archivos
